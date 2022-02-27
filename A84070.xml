@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jack Pudding: or, A minister made a black-pudding. Presented to Mr. R. Farmer parson of Nicholas Church in Bristol: by W.E.</title>
+            <author>Erbery, William, 1604-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84070</idno>
+            <idno type="STC">Wing E3228</idno>
+            <idno type="STC">Thomason E731_24</idno>
+            <idno type="STC">ESTC R206873</idno>
+            <idno type="EEBO-CITATION">99865968</idno>
+            <idno type="PROQUEST">99865968</idno>
+            <idno type="VID">166865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84070)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166865)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E731[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jack Pudding: or, A minister made a black-pudding. Presented to Mr. R. Farmer parson of Nicholas Church in Bristol: by W.E.</title>
+                  <author>Erbery, William, 1604-1654.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London. :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W.E. = William Erbery.</note>
+                  <note>Annotation on Thomason copy: "March: [ye]: 17: 1653"; the 4 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166865:1" rendition="simple:additions"/>
+            <p>Jack Pudding: Or, A MINISTER Made A Black-Pudding. Preſented To Mr. <hi>R. Farmer</hi> Parſon of <hi>Ni<g ref="char:EOLhyphen"/>cholas</hi> Church in <hi>Briſtol:</hi>
+            </p>
+            <p>By <hi>W. E.</hi>
+               <add>RBVRY</add>
+            </p>
+            <q>
+               <p>Ye have ſaid, 'Tis a vain thing to ſerve God, and, What profit is it that we have kept his Ordinance, and that we have walk<g ref="char:EOLhyphen"/>ed mournfully, <hi>or (as the Hebrew reads)</hi> that we have walked in black?</p>
+               <bibl>Mal. 3.14.</bibl>
+            </q>
+            <q>
+               <p>To <hi>ſerve</hi> God, is not in Forms of Worſhip, <hi>&amp;c.</hi> but in waiting continually on God, &amp; following Chriſt, in the Croſs, or fellowſhip of his ſufferings,</p>
+               <bibl>Ioh. 12.24, 25, 26, 27.</bibl>
+            </q>
+            <p>
+               <add>March: y<hi rend="sup">e</hi>: 17:</add> Printed at LONDON. 1654. <add>1653</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="proem">
+            <pb facs="tcp:166865:2"/>
+            <pb n="1" facs="tcp:166865:2"/>
+            <head>PROEME.</head>
+            <p>
+               <hi>THere is nothing that the Prophets do more contemptuouſly ſpeak of, then the</hi> Prieſts and their Ordinances, <hi>(being alſo types of ours.) Both were once honorable and holy in</hi> their ſeaſon, <hi>in</hi> the Spirits preſence; <hi>but when this was</hi> withdrawn, <hi>and they</hi> departed from the primitive inſtitution <hi>or from their</hi> righteous walk<g ref="char:EOLhyphen"/>ings, <hi>thoſe</hi> Worſhips <hi>(though ordained of God) were</hi> abhorred <hi>by him.</hi> Amos 6.8.</p>
+            <p>
+               <hi>There are two ſeveral times wherein the Prieſts or Mini<g ref="char:EOLhyphen"/>ſters, and their Ordinances, were contemned of God, and of men too at laſt.</hi> 1. <hi>When the Church was under Apoſtacie (as ours is) ſee</hi> Iſai. 1.11, 12, 13, 14, 15. Jer. 7.21, 22. Mal. 2.1, 2. to verſ. 9. <hi>where</hi> God does curſe their bleſſings, corrupt their ſeed, <hi>(or Tythe<g ref="char:EOLhyphen"/>corn)</hi> ſpread dung on their faces, makes them contemptible and baſe before the people, <hi>&amp;c.</hi> 2. <hi>Not onely the Apoſtacie, but the appro<g ref="char:EOLhyphen"/>ching glory, or</hi> glorious appearance of the great God in his people, <hi>being at hand, doth caſt contempt and a curſe on the Church-Miniſters, and their Ordinances; as</hi> Iſai. 43.19. to verſ. 28. Iſai. 66.2, 3, 5, 8, 9, 10. &amp;c. <hi>where</hi> God profanes the princes of the ſan<g ref="char:EOLhyphen"/>ctuary, (<hi>or, as the Hebr. reads,</hi> the holy Princes and Paſtors) and gives Jacob to the curſe, and Iſrael to reproches; <hi>all their Ordinan<g ref="char:EOLhyphen"/>ces being accounted</hi> as the cutting off a dogs neck, offering ſwines blood, bleſſing an idol, <hi>yea</hi> butchering a man; as the abomination, and the mouſe, <hi>&amp;c.</hi> verſ. 17.</p>
+            <p>
+               <hi>This I thought fit to premiſe unto the following Diſcourſe, which might ſeem ridiculous to ſome; though ſerious Truths, both Religion and Reaſon, may appear therein to many. Farewel.</hi>
+            </p>
+            <closer>
+               <signed>Thy <hi>W. E.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="religious_tract">
+            <epigraph>
+               <q>Theſe that ſanctifie themſelves, and purifie themſelves in gardens behinde one tree in the midſt, eating ſwines fleſh, and the abomination and the mouſe, ſhall be conſumed together, ſaith the Lord.
+<bibl>Iſai. 66.17.</bibl>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">B</seg>Efore I come to my Text, I muſt begin with my Par<g ref="char:EOLhyphen"/>ſon, a man at firſt but a Clerk, not Clerk of a Pa<g ref="char:EOLhyphen"/>riſh, but to a pettifogging Lawyer, or Committee, as they ſay; then a Maltſter, now a Miniſter of the Go<g ref="char:EOLhyphen"/>ſpel, or <hi>John of all trades,</hi> that's <hi>Jack-Pudding:</hi> ſo he was pleaſed to call me in Publike, at his Pariſh-meeting,
+<pb n="2" facs="tcp:166865:3"/>where he was merry at the Jeſt; but I ſhall prove him in earneſt to be that indeed, not onely a Jack, but a Black-Pudding.</p>
+            <p>The occaſion of his <hi>Scomma</hi> was this: Mr. <hi>Morgan Floyd</hi> of North-<hi>Wales,</hi> and my ſelf of the South, meeting together in <hi>Briſtol,</hi> the meer hand of providence having brought us thither, not any par<g ref="char:EOLhyphen"/>ticular deſigne, as ſome have imagined; we had liberty from God, with the love of men, and the Magiſtrates leave, to ſpeak in publike, though the Miniſter Parſon <hi>Farmer</hi> ſtole away the Keys, and kept the Church-doors faſt, till by Authority they were opened for us, I mean for Mr. <hi>Floyd</hi> though I ſpake after he had ended.</p>
+            <p>The next day I departed the City, and the Sunday following Mr. <hi>Farmer</hi> like a coward comes behinde my back; and ſmites me in my abſence, calling me Heretick by name, or (which is worſe) <hi>Jack-pud<g ref="char:EOLhyphen"/>ding,</hi> as Mr. <hi>Floyd</hi> Mountebank, though he forbore to particularize my friend, who being in the City, ſent a ſober Chalenge to Mr. <hi>Far<g ref="char:EOLhyphen"/>mer</hi> to meet him in publike or in private to reaſon about things con<g ref="char:EOLhyphen"/>troverted, and cenſured by the ſaid <hi>Farmer.</hi> But the man was ſo faint-hearted, he dar'd not appear, but refuſed the Gantlet, though he be as bold as a Lion in his Pulpit, and roars upon all that cannot con<g ref="char:EOLhyphen"/>form or crouch to his Doctrine and Diſcipline.</p>
+            <p>Truely I had never tryed his ſtrength, nor troubled his patience, though his preaching and teaching were never ſo Traditional and untrue: but becauſe he boaſts himſelf as a Miniſter of the Goſpel, and many good people are deceived by him, and he not daring to talk with any out of his Tub, therefore I once thought to queſtion him in publike at his Church; but for peace ſake I forbore, leſt I might offend the worthy Governours and Citizens preſent.</p>
+            <p>For this cauſe, I publiſh it to the world, that not onely the Parſon might repent of his bitterneſs, his folly and frowardneſs but that his people might know, he is no Miniſter of Chriſt, nor a Chriſtian man indeed.</p>
+            <p>This I prove, firſt, as a Scholar by Reaſon; then by Scripture, to all rational and religious men<g ref="char:punc">▪</g> in this ſhort Enthymem:</p>
+            <p>
+               <hi>M.</hi> Farmer <hi>is a Jack-pudding, Therfore no Miniſter of Chriſt.</hi>
+            </p>
+            <p>I prove he is a <hi>Jack pudding,</hi> becauſe he is a <hi>Black-pudding:</hi> yea, a <hi>Bag-pudding</hi> too I could make him becauſe he <hi>bears the bag,</hi> as <hi>Judas</hi> did, and <hi>divines for money</hi> M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c. 3.11.</p>
+            <p>The firſt onely I now aſſert, in this Syllogiſm:</p>
+            <pb n="3" facs="tcp:166865:3"/>
+            <p> That which is made of <hi>fat, and blood, and a black coat or skin about it,</hi> is a <hi>Black-pudding.</hi>
+            </p>
+            <p>But Mr. <hi>Farmer</hi> is made of <hi>fat and blood, and a black coat or skin about</hi> him:</p>
+            <p>Therefore, he is a Black-pudding.</p>
+            <p>Every Tripe-woman or good houſwife will prove the Major. The Minor is proved in theſe particulars.</p>
+            <p>Firſt, <hi>their heart is as fat as greaſe,</hi> Pſal. 119.70. ſo is Mr. <hi>Far<g ref="char:EOLhyphen"/>mer</hi> full of the ſame fat, that's the fulneſs or height of fleſh, <hi>Iſa.</hi> 17.4</p>
+            <p>Secondly, <hi>their feet are ſwift to ſhed blood;</hi> yea <hi>their hands are full of blood,</hi> or <hi>bloods,</hi> (as the Hebrew reads) <hi>Iſai.</hi> 1.15. So is Mr. <hi>Farmer</hi>'s heart and hands too full of bloods, that is a perſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uting ſpirit, covetouſneſs, cruelty, craft to deſtroy or deceive; yea, there's the <hi>blood of ſouls, Ezek.</hi> 13. (as <hi>ſlaves</hi> and <hi>ſouls of men</hi> are ſaid to be ſold by the Merchants or Miniſters, <hi>Rev.</hi> 18.13.) but <hi>blood</hi> eſpecially is <hi>the life of the fleſh,</hi> as we call <hi>fleſh and blood.</hi> Thus their <hi>hands are full of bloods,</hi> who are wholly in <hi>bodily ex<g ref="char:EOLhyphen"/>erciſes,</hi> of <hi>fleſhly Ordinances,</hi> as thoſe Prieſts in the Prophet com<g ref="char:EOLhyphen"/>plain, <hi>What profit is it that we have kept his Ordinance?</hi> Mark, the Miniſters are all for <hi>profit,</hi> elſe the people ſhall have no <hi>Ordi<g ref="char:EOLhyphen"/>nance:</hi> yet, poor fools, they think 'tis an <hi>Ordinance,</hi> becauſe given by a <hi>Black-coat:</hi> therefore 'tis added, <hi>What profit is it that w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have walked in black?</hi> for ſo the Hebr. reads as I ſaid, <hi>Mal.</hi> 3.14.</p>
+            <p>This proves the Miniſter to be but a Black-pudding, becauſe, be<g ref="char:EOLhyphen"/>ſides his <hi>fat and blood,</hi> he has a <hi>black coat or skin about him.</hi> I do not mention Mr. <hi>Farmer</hi>'s <hi>face,</hi> or black countenance, becauſe God made him ſo: but who made him a <hi>Black-coat,</hi> or Miniſter, after he had done his Malting let men conſider; onely I'll prove him to be not of Gods making, as a Miniſter, becauſe he's a Black<g ref="char:EOLhyphen"/>pudding; or as <hi>Baal</hi>'s Prieſts are called <hi>Chemarim,</hi> that is, Black<g ref="char:EOLhyphen"/>coats, <hi>Zeph.</hi> 11.4.</p>
+            <p>That's my ſecond Argument:
+<list>
+                  <item>He who has <hi>no gift of the Spirit by the laying on of hands,</hi> is no Miniſter of Chriſt.</item>
+                  <item>But Mr. <hi>Farmer</hi> has no <hi>gift of the Spirit:</hi>
+                  </item>
+                  <item>
+                     <hi>Ergo,</hi> no Miniſter of Chriſt.</item>
+               </list>
+            </p>
+            <p>The Major is proved, 1 <hi>Tim.</hi> 4.14. 2 <hi>Tim.</hi> 1.6. <hi>Heb.</hi> 6.1. 'Tis not the <hi>doctrine of Baptiſm,</hi> but of <hi>Baptiſms,</hi> (that's of the <hi>Spirit</hi>
+               <pb n="4" facs="tcp:166865:4"/>as well as <hi>water</hi>) without both, there is no <hi>Church-memberſhip;</hi> as without <hi>laying on of hands</hi> (and a gift thereby) no <hi>Miniſter of Christ.</hi>
+            </p>
+            <p>The Minor is proved, 1 <hi>Cor.</hi> 12.8. Among all the gifts of the Spirit, the firſt is <hi>a word of wiſdom.</hi>
+               <list>
+                  <item>That Miniſter who has not a <hi>gift of wiſdom,</hi> has not the <hi>gift of the Spirit.</hi>
+                  </item>
+                  <item>But Mr. <hi>Farmer</hi> has not a gift of wiſdom:</item>
+                  <item>
+                     <hi>Ergo.</hi> Not a gift of the Spirit.</item>
+               </list>
+            </p>
+            <p>That Mr. <hi>Farmer</hi> has not the <hi>gift of wiſdom,</hi> is proved by this, Becauſe <hi>he is a fool.</hi>
+            </p>
+            <p>That Mr. <hi>Farmer</hi> is a <hi>fool,</hi> or <hi>fooliſh ſhepherd,</hi> is thus aſſerted.
+<list>
+                  <item>He who has the <hi>inſtruments of a fooliſh ſhepherd,</hi> is a <hi>fool,</hi> or <hi>fooliſh ſhepherd.</hi>
+                  </item>
+                  <item>But Mr. <hi>Farmer</hi> has the <hi>inſtruments of a fooliſh ſhepherd:</hi>
+                  </item>
+                  <item>
+                     <hi>Ergo.</hi> Mr. <hi>Farmer</hi> is a fool.</item>
+               </list>
+            </p>
+            <p>The Major is proved, <hi>Zech.</hi> 11.15.</p>
+            <p>The Minor is plain becauſe <hi>the inſtruments of a fooliſh ſhepherd</hi> are, 1. when Miniſters meddle with Civil matters, or intermix with State-affairs: there's One, as 'twas well ſaid in a Speech at <hi>Dun<g ref="char:EOLhyphen"/>bar.</hi> 2. The <hi>Magiſtrates call:</hi> there's Two. 3. A <hi>worldly maintenance:</hi> there's Three. 4. <hi>Formal Ordinances</hi> in the hands <hi>of a fleſhly Miniſtery:</hi> there's Four <hi>inſtruments of a fooliſh ſhep<g ref="char:EOLhyphen"/>herd.</hi> If theſe are not in Mr. <hi>Farmer</hi>'s hands, then he is no <hi>fool,</hi> but a <hi>friend;</hi> for ſo we ſhall be, when God ſhall make him, and me, and all the Miniſters alſo fools: for ſo all <hi>men muſt be, before they be wiſe,</hi> or can walk in the <hi>way of God,</hi> where <hi>wayfaring men, though fools, ſhall not erre</hi> therein, <hi>Iſai.</hi> 35.8. 1 <hi>Cor.</hi> 3.18.</p>
+            <p>Having thus taken my Parſon in hand, now I ſhall handle my Text, very ſhort and ſweet; as Mr. <hi>Farmer</hi> ſaid when he came firſt to the City, that his Sermon ſhould not be long, becauſe his books were not come down. The fore-going verſe tells us, that by <hi>fire and his ſword will the Lord plead with all fleſh, and the ſlain of the Lord ſhall be many.</hi> Iſai. 66.16. Men have been long fighting with men; now the ſword of God is drawn againſt both: and man has been long pleading with man; now God will plead with all, even all fleſh; which becauſe the <hi>Word the ſword of the Spirit</hi> cannot reach, therefore fleſh ſhall have <hi>fire</hi> kindled within, to conſume and
+<pb n="5" facs="tcp:166865:4"/>
+               <hi>ſlay</hi> it. What's the <hi>fire,</hi> but the <hi>Spirit of the Lord,</hi> or the Lord himſelf, who is a <hi>conſuming fire,</hi> who though dwelling in fleſh, hath hitherto ſpar'd it, unleſs in ſome broken-hearted Saints, in whom the everlaſting burnings have broken forth, and made their <hi>fleſh and the goodlineſs of fleſh to wither</hi> in them; their wiſdom being turned to folly, their ſpiritual ſtrength to weakneſs, their gifts and graces waſted, their joy and peace fled away. But this fire is not yet fallen on all; but it ſhall with a vengeance, very ſhortly: for as <hi>every one ſhall be ſalted with fire,</hi> that is, every one who is ſlain and ſacrifi<g ref="char:EOLhyphen"/>ced to God, (for <hi>every ſacrifice ſhall be ſalted with ſalt</hi>) ſo Salt being beſt to ſeaſon fleſh, and fire to ſlay it, <hi>the ſlain of the Lord ſhall be many indeed,</hi> when he comes forth in them <hi>as fire.</hi>
+            </p>
+            <p>For as by this he pleads with fleſh; ſo his rebukes are ſaid to be with flames of fire, <hi>Iſai.</hi> 66.15. Words are but winde, when man ſpeaks or reproves: but when God in man ſhall rebuke, 'twill ſoon be felt as <hi>fire in their bones, and flames in their boſome,</hi> Pſal.</p>
+            <p>The <hi>fire</hi> comes forth firſt <hi>on the Church:</hi> for as the Church has not had the <hi>baptiſm of fire</hi> but has been content with <hi>water;</hi> ſo ano<g ref="char:EOLhyphen"/>ther <hi>fire ſhall baptize,</hi> yea <hi>burn</hi> them up, as the Prophet phraſeth it, <hi>They ſhall go out from one fire, &amp; another fire ſhall devour them, Ezek.</hi> 15.5, 6. that is, the Church has gone forth out of the <hi>fire of the Spirit,</hi> or Baptiſm of fire, into fleſhly forms: therefore another fire, the <hi>fire of his jealouſie,</hi> ſhall devour them.</p>
+            <p>This is clear in all the Scriptures, that as <hi>judgment begins at the houſe of God;</hi> ſo the Church muſt be judged before the world: yea all that <hi>wrath, judgement, fire, and a hell upon earth,</hi> which the Church interprets to be for the world, that's moſt true of the Church. For as <hi>the children of the kingdom ſhall be caſt into outer dark<g ref="char:EOLhyphen"/>neſs,</hi> Mat. 8.12. ſo not ſtrangers but <hi>ſervants are called to account;</hi> not whores, but <hi>virgins come to judgment,</hi> Mat. 25. Yea thoſe <hi>carcaſes</hi> are the Churches, who as they ſhall appear as walking Ghoſts, and to be <hi>dead while they live;</hi> ſo they are damned above ground, and have <hi>a hell upon earth, whoſe worm never dies, and their fire never quenched,</hi> Iſai. 66.24. For as the Lord is ſaid to be <hi>a worm or moth unto Judah,</hi> and <hi>our God a conſuming fire,</hi> that ſhall never be quenched; ſo this Scripture of <hi>Iſai.</hi> 66.24. ſpeaks not of hell hereafter, for there's <hi>no carcaſes</hi> there, nor can one <hi>go forth</hi> to look upon them: (for <hi>Lazarus</hi> could not, becauſe of the gulf;
+<pb n="6" facs="tcp:166865:5"/>nor could he, being in light, <hi>ſee Dives</hi> in darkneſs though <hi>Dives</hi> in the dark could ſee <hi>Lazarus afar off.</hi>) Beſides, theſe <hi>carcaſes</hi> are ſaid to be <hi>an abhorring to all fleſh,</hi> which ſhews it to be <hi>a hel upon earth.</hi>
+            </p>
+            <p>And that this fire is firſt for the Church is clear by my Text: <hi>They that ſanctifie themſelves and purifie themſelves in the gardens:</hi> that's plain of particular Churches; for the world is the <hi>Common.</hi> Again, <hi>they ſanctifie and purifie themſelves,</hi> which is not proper to the world. But 3. <hi>they ſanctifie themſelves;</hi> 'tis not <hi>ſanctifi<g ref="char:EOLhyphen"/>cation of the Spirit through obedience to the truth.</hi> Beſides, they are not <hi>ſanctified throughout their ſpirit, ſoul, and body;</hi> for the world may ſee the walkings of Saints as carnal, and Churches to be covetous and worldly as any: but they <hi>ſanctifie themſelves</hi> with ſome forms and <hi>Church-fellowſhips</hi> far from that of the Spirit, or Goſpel-believers; and though they are <hi>pure in their own eyes,</hi> yet God, who <hi>weigheth the ſpirits,</hi> knows they are not <hi>waſhed from their filthineſs.</hi> Prov. 30.12. for the <hi>fire hath never touch'd</hi> their fleſh, nor their <hi>fleſh ſacrificed</hi> to God; therefore <hi>as men living in the world and ſubject to Ordinances, they ſanctifie themſelves &amp; purifie themſelvs</hi> in gardens <hi>behind one tree in the midſt, &amp;c.</hi>
+            </p>
+            <p>What this <hi>one tree</hi> is, I know not, unleſs it be the <hi>forbidden tree,</hi> which the Churches taſte of; but <hi>the tree of life in the midſt of the paradiſe or garden of God</hi> is a myſtery to them <hi>Rev.</hi> 2.7. <hi>Rev.</hi> 22.14. But there is no ſuch word here as <hi>tree</hi> in the Hebr. therefore 'tis read, <hi>They ſanctifie themſelvs and purifie themſelvs in the gar<g ref="char:EOLhyphen"/>dens behinde one in the midſt.</hi> This <hi>one</hi> to me is not a <hi>tree</hi> but a <hi>man,</hi> even a <hi>Miniſter,</hi> he is <hi>that one in the midſt</hi> of the Pariſh-Church; and the Church is bleſt by him for all day, and week too after: they are <hi>ſanctified holy men,</hi> and <hi>Chriſtians,</hi> becauſe they have a Paſtor or <hi>Parſon</hi> among them: but though in the Sacrament they think to <hi>eat the fleſh</hi> (and blood) of Chriſt, 'tis but <hi>ſwines fleſh, the abomination, and the mouſe,</hi> that's the Ordinances they feed on People &amp; Parſon or Paſtor together, while the Spirit is abſent.</p>
+            <p>The <hi>ſwines fleſh</hi> puts me in minde of the <hi>Black Pudding</hi> before; for 'tis made of the <hi>blood</hi> of that: yea, this very Prophet in the ſame Chapter tels us, that <hi>he that offereth an oblation, is as he that offereth ſwines blood,</hi> Iſa. 66.3. He that offereth is the Prieſt or <hi>Parſon;</hi> and that he is the <hi>Pudding,</hi> is plain by the words, as read in the Original, where thoſe words <hi>[as if he offered]</hi> are not; but thus 'tis in the Hebrew: <hi>He that offereth an oblation, ſwines blood;</hi> that is, he that offereth is <hi>ſwines blood,</hi> or, <hi>a black Pudding.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <epigraph>
+               <q>Thou haſt given them blood to drink: for they are worthy.</q>
+               <bibl>Rev. 16.6.</bibl>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
